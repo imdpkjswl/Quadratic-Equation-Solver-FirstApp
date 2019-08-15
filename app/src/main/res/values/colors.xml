@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#696969</color>
+    <color name="colorPrimaryDark">#473A5E</color>
+    <color name="colorAccent">#696969</color>
+    <color name="colorBackground">#BABBC2</color>
+    <color name="colorButton">#696969</color>
+    <color name="colorSolveButton">#FCFCFC</color>
+
+    <color name="colorAbout">#546177</color>
+    <color name="colorHeading">#40C4FF</color>
+    <color name="colorText">#FFFFFF</color>
+
+
+
+</resources>

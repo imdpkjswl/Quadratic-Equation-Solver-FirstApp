@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+
+    <!-- Creating item for Privacy policy -->
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="@string/privacy_policy"
+        android:onClick="browsePrivacy"
+
+        />
+
+
+    <!-- The android:onClick attribute’s value, "browsePolicy", is the name of a
+         method in MainActivity that the system calls when the user clicks the button.
+         In the java/com.dj.quadraticequationsolver directory, open the MainActivity.java
+         file.Within the MyActivity class, add the browsePrivacy() method as shown in MAIN.
+    -->
+
+
+    <!-- Contact Developer item -->
+    <item
+        android:id="@+id/about"
+        android:title="@string/contact_developer"
+        app:showAsAction="never"
+
+        />
+
+
+</menu>

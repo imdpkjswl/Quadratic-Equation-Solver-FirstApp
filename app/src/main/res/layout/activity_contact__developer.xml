@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:orientation="vertical"
+    android:paddingTop="0dp"
+    android:background="@color/colorAbout"
+    tools:context=".Contact_Developer">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:text="Welcome"
+        android:textStyle="bold"
+        android:textSize="42sp"
+        android:textColor="@color/colorHeading"
+        android:fontFamily="sans-serif-medium"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:text="Myself(dj) :  Recently I’m just started second year of my Computer Engineering studies under Visveswaraiah Technological University in Karnataka."
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorText"
+        android:fontFamily="sans-serif-medium"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:text="Don’t hesitate to shoot me an email! , If any Queries: Freeapkstudios@gmail.com"
+        android:textStyle="italic"
+        android:textSize="19sp"
+        android:textColor="@color/colorText"
+        android:fontFamily="sans-serif-medium"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:text="“Live as if you were to die tomorrow. Learn as if you  were to live forever. ”  ―Mahatma Gandhi \n\n“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.” –Earl Nightingale"
+        android:textStyle="normal"
+        android:textSize="16sp"
+        android:textColor="@color/colorText"
+        android:fontFamily="sans-serif-medium"
+        />
+
+
+</LinearLayout>
