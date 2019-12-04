@@ -47,9 +47,7 @@ Please contact me if you find any bugs.
 
 
 
-
-<a href="" rel="https://github.com/deepakjaiswal2018/Quadratic-Equation-Solver-FirstApp/blob/master/playstore.png"><img src="" alt="https://play.google.com/store/apps/details?id=com.freeapkstudios.qes&hl=en" /></a>
-
+<a href="https://play.google.com/store/apps/details?id=com.freeapkstudios.qes&hl=en" rel="some text">![Foo](https://github.com/deepakjaiswal2018/Quadratic-Equation-Solver-FirstApp/blob/master/playstore.png)</a>
 
 
 **LICENSE:**
