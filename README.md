@@ -2,16 +2,12 @@
 
 
 <pre>
-
 ┏━━━┓ ┏━━━┓ ┏━━━┓
 ┃┏━┓┃ ┃┏━━┛ ┃┏━┓┃
 ┃┃︱┃┃ ┃┗━━┓ ┃┗━━┓
 ┃┗━┛┃ ┃┏━━┛ ┗━━┓┃
 ┗━━┓┃ ┃┗━━┓ ┃┗━┛┃
-︱︱︱┗┛ ┗━━━┛ ┗━━━┛
-                                                                                                                
-
-</pre>
+︱︱︱┗┛ ┗━━━┛ ┗━━━┛</pre>
 
 
 **Website:** https://play.google.com/store/apps/details?id=com.freeapkstudios.qes&hl=enm
