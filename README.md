@@ -48,7 +48,7 @@ Please contact me if you find any bugs.
 
 
 
-![alt text](https://github.com/deepakjaiswal2018/Quadratic-Equation-Solver-FirstApp/blob/master/playstore.png)
+![alt text](https://play.google.com/store/apps/details?id=com.freeapkstudios.qes&hl=en)
 
 
 
