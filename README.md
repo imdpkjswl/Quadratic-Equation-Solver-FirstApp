@@ -45,13 +45,13 @@ This use quadratic equation solving formula for calculating. You can get exact a
 Please contact me if you find any bugs.
 
 
-<pre> 
+
 
 
 ![alt text](https://github.com/deepakjaiswal2018/Quadratic-Equation-Solver-FirstApp/blob/master/playstore.png)
 
 
-</pre>
+
 
 **LICENSE:**
 
