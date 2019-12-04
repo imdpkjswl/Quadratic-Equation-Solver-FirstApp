@@ -1,18 +1,16 @@
 # Quadratic-Equation-Solver-FirstApp
 
 
+<style>
 
-***
-
+ 
 ░ █ ▀ ▀ █ 　░ █ ▀ ▀ ▀ 　░ █ ▀ ▀ ▀ █ 　
 ░ █ ─ ░ █ 　░ █ ▀ ▀ ▀ 　─ ▀ ▀ ▀ ▄ ▄ 　
 ─ ▀ ▀ █ ▄ 　░ █ ▄ ▄ ▄ 　░ █ ▄ ▄ ▄ █ 　
 
 
-***
 
-
-
+</style>
 
 
 **Website:** https://play.google.com/store/apps/details?id=com.freeapkstudios.qes&hl=enm
